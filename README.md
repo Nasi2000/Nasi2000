@@ -1,3 +1,11 @@
-## Hi there 👋
+## 📅 Isometric commit calendar
 
-![Metrics](./metrics.svg)
+![ISO календарь](./metrics.isocalendar.svg)
+
+## 🌍 Stargazers
+
+![Stargazers](./metrics.stargazers.svg)
+
+## 📜 Repository licenses
+
+![Licenses](./metrics.licenses.svg)
