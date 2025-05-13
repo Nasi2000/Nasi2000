@@ -4,7 +4,11 @@
 
 ## 🌍 Stargazers
 
-![Stargazers](./metrics.stargazers.svg)
+### 📈 Stargazers graph
+![Stargazers graph](./metrics.stargazers.graph.svg)
+
+### 🌍 Worldmap
+![Stargazers worldmap](./metrics.stargazers.worldmap.svg)
 
 ## 📜 Repository licenses
 
