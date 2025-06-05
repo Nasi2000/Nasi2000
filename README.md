@@ -7,6 +7,10 @@
       alt="Typing SVG"
     />
   </a>
+  
+  <br />
+    <!-- Метрики -->
+  <img src="./languages.activity.svg" alt="Languages Activity"/>
 
   <br />
   <a href="https://github.com/Nasi2000/github-readme-activity-graph">
@@ -15,8 +19,4 @@
       alt="Readme Active Graph"
     />
   </a>
-  <br />
-
-  <!-- Метрики -->
-  <img src="./languages.activity.svg" alt="Languages Activity"/>
 </div>
